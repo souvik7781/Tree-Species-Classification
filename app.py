@@ -756,21 +756,5 @@ else:
 # === FOOTER ===
 st.markdown("""
 <div class="footer">
-    <h3>👨‍💻 Developed by Deepak Singh</h3>
-    <p>Full Stack Developer & AI Enthusiast</p>
-    <div class="developer-info">
-        <a href="https://www.linkedin.com/in/deepaksinghai" target="_blank" class="social-link">
-            💼 LinkedIn
-        </a>
-        <a href="https://github.com/CodeWithDks" target="_blank" class="social-link">
-            🐙 GitHub
-        </a>
-        <a href="https://relaxed-trifle-359674.netlify.app" target="_blank" class="social-link">
-            🌐 Portfolio
-        </a>
-    </div>
-    <p style="margin-top: 1rem; color: #666; font-size: 0.8rem;">
-        🌿 Powered by advanced AI and image recognition | Built with Streamlit
-    </p>
-</div>
+    <h3>👨‍💻 Developed by Souvik Nandi</h3>
 """, unsafe_allow_html=True)
