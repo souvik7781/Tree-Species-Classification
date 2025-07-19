@@ -106,8 +106,8 @@ This project is for **educational and research purposes** only. While prediction
 
 ## 👨‍💻 Author
 
-**Deepak Kumar**
-💬 *3rd Year BCA Student | AI Enthusiast | Exploring nature through code*
+**Souvik Nandi**
+💬 *4th Year B.Tech Student | AI Enthusiast | Exploring nature through code*
 
 ---
 
